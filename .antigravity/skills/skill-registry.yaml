@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: cote-divoirean-restitution-roadmap-and-qsf-trust-execution
-  name: Cote Divoirean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/cote-divoirean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ci_001
+    name: Cote Divoire Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_002
+    name: Cote Divoire Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_003
+    name: Cote Divoire Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_004
+    name: Cote Divoire Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_005
+    name: Cote Divoire Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_006
+    name: Cote Divoire Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_007
+    name: Cote Divoire Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_008
+    name: Cote Divoire Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_009
+    name: Cote Divoire Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_010
+    name: Cote Divoire Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_011
+    name: Cote Divoire Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_012
+    name: Cote Divoire Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_013
+    name: Cote Divoire Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_014
+    name: Cote Divoire Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_015
+    name: Cote Divoire Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_016
+    name: Cote Divoire Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_017
+    name: Cote Divoire Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_018
+    name: Cote Divoire Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_019
+    name: Cote Divoire Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_020
+    name: Cote Divoire Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_021
+    name: Cote Divoire Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_022
+    name: Cote Divoire Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_023
+    name: Cote Divoire Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_024
+    name: Cote Divoire Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_025
+    name: Cote Divoire Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_026
+    name: Cote Divoire Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_027
+    name: Cote Divoire Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_028
+    name: Cote Divoire Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_029
+    name: Cote Divoire Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_030
+    name: Cote Divoire Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_031
+    name: Cote Divoire Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_032
+    name: Cote Divoire Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_033
+    name: Cote Divoire Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_034
+    name: Cote Divoire Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_035
+    name: Cote Divoire Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_036
+    name: Cote Divoire Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_037
+    name: Cote Divoire Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_038
+    name: Cote Divoire Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_039
+    name: Cote Divoire Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_040
+    name: Cote Divoire Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_041
+    name: Cote Divoire Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_042
+    name: Cote Divoire Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_043
+    name: Cote Divoire Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_044
+    name: Cote Divoire Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_045
+    name: Cote Divoire Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_046
+    name: Cote Divoire Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_047
+    name: Cote Divoire Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_048
+    name: Cote Divoire Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_049
+    name: Cote Divoire Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_050
+    name: Cote Divoire Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_051
+    name: Cote Divoire Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_052
+    name: Cote Divoire Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_053
+    name: Cote Divoire Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_054
+    name: Cote Divoire Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_055
+    name: Cote Divoire Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_056
+    name: Cote Divoire Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_057
+    name: Cote Divoire Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_058
+    name: Cote Divoire Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_059
+    name: Cote Divoire Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_060
+    name: Cote Divoire Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_061
+    name: Cote Divoire Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_062
+    name: Cote Divoire Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_063
+    name: Cote Divoire Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_064
+    name: Cote Divoire Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_065
+    name: Cote Divoire Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_066
+    name: Cote Divoire Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_067
+    name: Cote Divoire Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_068
+    name: Cote Divoire Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_069
+    name: Cote Divoire Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_070
+    name: Cote Divoire Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_071
+    name: Cote Divoire Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_072
+    name: Cote Divoire Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_073
+    name: Cote Divoire Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_074
+    name: Cote Divoire Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_075
+    name: Cote Divoire Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_076
+    name: Cote Divoire Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_077
+    name: Cote Divoire Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_078
+    name: Cote Divoire Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_079
+    name: Cote Divoire Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_080
+    name: Cote Divoire Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_081
+    name: Cote Divoire Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_082
+    name: Cote Divoire Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_083
+    name: Cote Divoire Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_084
+    name: Cote Divoire Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_085
+    name: Cote Divoire Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_086
+    name: Cote Divoire Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_087
+    name: Cote Divoire Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_088
+    name: Cote Divoire Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_089
+    name: Cote Divoire Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_090
+    name: Cote Divoire Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_091
+    name: Cote Divoire Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_092
+    name: Cote Divoire Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_093
+    name: Cote Divoire Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_094
+    name: Cote Divoire Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_095
+    name: Cote Divoire Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_096
+    name: Cote Divoire Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_097
+    name: Cote Divoire Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_098
+    name: Cote Divoire Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_099
+    name: Cote Divoire Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_100
+    name: Cote Divoire Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_101
+    name: Cote Divoire Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_102
+    name: Cote Divoire Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_103
+    name: Cote Divoire Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_104
+    name: Cote Divoire Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_105
+    name: Cote Divoire Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_106
+    name: Cote Divoire Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_107
+    name: Cote Divoire Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_108
+    name: Cote Divoire Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_109
+    name: Cote Divoire Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_110
+    name: Cote Divoire Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_111
+    name: Cote Divoire Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_112
+    name: Cote Divoire Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_113
+    name: Cote Divoire Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_114
+    name: Cote Divoire Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_115
+    name: Cote Divoire Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_116
+    name: Cote Divoire Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_117
+    name: Cote Divoire Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_118
+    name: Cote Divoire Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_119
+    name: Cote Divoire Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_120
+    name: Cote Divoire Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_121
+    name: Cote Divoire Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_122
+    name: Cote Divoire Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_123
+    name: Cote Divoire Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_124
+    name: Cote Divoire Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_125
+    name: Cote Divoire Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_126
+    name: Cote Divoire Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_127
+    name: Cote Divoire Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_128
+    name: Cote Divoire Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_129
+    name: Cote Divoire Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_130
+    name: Cote Divoire Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_131
+    name: Cote Divoire Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_132
+    name: Cote Divoire Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_133
+    name: Cote Divoire Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_134
+    name: Cote Divoire Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_135
+    name: Cote Divoire Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_136
+    name: Cote Divoire Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_137
+    name: Cote Divoire Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_138
+    name: Cote Divoire Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_139
+    name: Cote Divoire Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_140
+    name: Cote Divoire Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_141
+    name: Cote Divoire Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_142
+    name: Cote Divoire Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_143
+    name: Cote Divoire Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_144
+    name: Cote Divoire Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_145
+    name: Cote Divoire Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_146
+    name: Cote Divoire Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_147
+    name: Cote Divoire Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_148
+    name: Cote Divoire Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_149
+    name: Cote Divoire Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_150
+    name: Cote Divoire Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_151
+    name: Cote Divoire Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_152
+    name: Cote Divoire Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_153
+    name: Cote Divoire Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_154
+    name: Cote Divoire Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_155
+    name: Cote Divoire Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_156
+    name: Cote Divoire Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_157
+    name: Cote Divoire Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_158
+    name: Cote Divoire Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_159
+    name: Cote Divoire Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_160
+    name: Cote Divoire Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_161
+    name: Cote Divoire Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_162
+    name: Cote Divoire Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_163
+    name: Cote Divoire Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_164
+    name: Cote Divoire Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_165
+    name: Cote Divoire Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_166
+    name: Cote Divoire Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_167
+    name: Cote Divoire Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_168
+    name: Cote Divoire Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_169
+    name: Cote Divoire Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_170
+    name: Cote Divoire Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_171
+    name: Cote Divoire Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_172
+    name: Cote Divoire Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_173
+    name: Cote Divoire Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_174
+    name: Cote Divoire Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_175
+    name: Cote Divoire Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_176
+    name: Cote Divoire Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_177
+    name: Cote Divoire Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_178
+    name: Cote Divoire Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_179
+    name: Cote Divoire Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_180
+    name: Cote Divoire Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_181
+    name: Cote Divoire Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_182
+    name: Cote Divoire Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_183
+    name: Cote Divoire Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_184
+    name: Cote Divoire Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_185
+    name: Cote Divoire Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_186
+    name: Cote Divoire Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_187
+    name: Cote Divoire Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_188
+    name: Cote Divoire Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_189
+    name: Cote Divoire Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_190
+    name: Cote Divoire Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_191
+    name: Cote Divoire Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_192
+    name: Cote Divoire Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_193
+    name: Cote Divoire Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_194
+    name: Cote Divoire Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_195
+    name: Cote Divoire Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_196
+    name: Cote Divoire Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_197
+    name: Cote Divoire Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_198
+    name: Cote Divoire Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_199
+    name: Cote Divoire Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_200
+    name: Cote Divoire Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_201
+    name: Cote Divoire Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_202
+    name: Cote Divoire Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_203
+    name: Cote Divoire Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_204
+    name: Cote Divoire Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_205
+    name: Cote Divoire Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_206
+    name: Cote Divoire Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_207
+    name: Cote Divoire Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_208
+    name: Cote Divoire Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_209
+    name: Cote Divoire Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_210
+    name: Cote Divoire Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_211
+    name: Cote Divoire Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_212
+    name: Cote Divoire Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_213
+    name: Cote Divoire Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_214
+    name: Cote Divoire Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_215
+    name: Cote Divoire Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_216
+    name: Cote Divoire Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_217
+    name: Cote Divoire Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_218
+    name: Cote Divoire Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_219
+    name: Cote Divoire Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_220
+    name: Cote Divoire Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_221
+    name: Cote Divoire Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_222
+    name: Cote Divoire Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_223
+    name: Cote Divoire Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_224
+    name: Cote Divoire Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_225
+    name: Cote Divoire Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_226
+    name: Cote Divoire Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_227
+    name: Cote Divoire Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_228
+    name: Cote Divoire Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_229
+    name: Cote Divoire Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_230
+    name: Cote Divoire Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_231
+    name: Cote Divoire Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_232
+    name: Cote Divoire Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_233
+    name: Cote Divoire Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_234
+    name: Cote Divoire Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_235
+    name: Cote Divoire Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_236
+    name: Cote Divoire Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_237
+    name: Cote Divoire Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_238
+    name: Cote Divoire Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_239
+    name: Cote Divoire Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_240
+    name: Cote Divoire Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_241
+    name: Cote Divoire Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_242
+    name: Cote Divoire Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_243
+    name: Cote Divoire Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_244
+    name: Cote Divoire Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_245
+    name: Cote Divoire Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_246
+    name: Cote Divoire Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_247
+    name: Cote Divoire Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_248
+    name: Cote Divoire Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_249
+    name: Cote Divoire Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_250
+    name: Cote Divoire Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_251
+    name: Cote Divoire Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ci_252
+    name: Cote Divoire Skill 252
+    status: ACTIVE_SCAFFOLD
