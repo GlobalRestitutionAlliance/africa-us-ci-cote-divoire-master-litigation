@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/cote-divoire",
+  "final_url": "https://data.worldbank.org/country/cote-divoire",
+  "title": "World Bank Cote d'Ivoire",
+  "fetched_at": "2026-11-23T01:39:26.836687Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60013,
+  "sha256": "63a954512bc7d782083cc86c193b56139799d92f866239e70e9210e21a265140",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

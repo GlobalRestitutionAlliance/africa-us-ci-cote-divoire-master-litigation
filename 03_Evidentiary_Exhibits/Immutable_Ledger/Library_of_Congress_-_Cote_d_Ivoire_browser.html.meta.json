@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=ivory+coast+colonial+forced+labor",
+  "final_url": "https://www.loc.gov/item/?q=ivory+coast+colonial+forced+labor",
+  "title": "Library of Congress - Cote d'Ivoire",
+  "fetched_at": "2026-11-23T01:38:48.796767Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60000,
+  "sha256": "a6162e94db82eb8a2693c6e57eaa6f402e6a85cee011aa6ab8ec448b259c2030",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_404_PENDING_RECAPTURE",
+  "note": "Browser capture is a 404/landing/not-found page; retained for provenance only. NOT substantive evidence until recaptured from an authoritative source."
+}
